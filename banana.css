@@ -1,7 +1,7 @@
 .top{
  background-image: url("https://static.pexels.com/photos/6675/flight-mountains-sky-flying.jpeg");  
  /* Full height */
-    height: 800px; 
+    height: 100%; 
 
     /* Center and scale the image nicely */
     background-position: center;
@@ -24,7 +24,7 @@
 .ban_class{
     background-image: url("https://cdn.shopify.com/s/files/1/0285/1316/products/PAT-0033-WALP-WP-1_132d7191-21f4-482d-a1d8-e7929dcc428c.jpg?v=1485474173");  
  /* Full height */
-    height: 800px; 
+    height: 100%; 
 
     /* Center and scale the image nicely */
     background-position: center;
