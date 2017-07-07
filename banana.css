@@ -22,6 +22,7 @@
     text-align: center;
     padding-top: 30px;
     text-shadow: 1px 1px 5px black;
+    margin: 0px;
 }
 
 .ban_class{
@@ -40,6 +41,7 @@
     text-align: center;
     
     font-size: 50px;
+    margin: 0px;
     
 }
 
