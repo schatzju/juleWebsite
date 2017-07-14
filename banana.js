@@ -6,7 +6,7 @@ $(".ban_class").hide();
 $( "#banana" ).click(function() {
   alert( "Are you sure you are ready?" );
   $(".ban_class").show();
-  $(".ban_class").css("background-image", "url("https://cdn.shopify.com/s/files/1/0285/1316/products/PAT-0033-WALP-WP-1_132d7191-21f4-482d-a1d8-e7929dcc428c.jpg?v=1485474173")");
+  $(".ban_class").css("background-image", "url(https://cdn.shopify.com/s/files/1/0285/1316/products/PAT-0033-WALP-WP-1_132d7191-21f4-482d-a1d8-e7929dcc428c.jpg?v=1485474173)");
   $(".top").hide();
   
 });
